@@ -23,7 +23,7 @@
 <p align="center">
 <p>Front Skill</p>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,tailwind" />
   </a>
 <p>Back Skill</p>
   <a href="">
