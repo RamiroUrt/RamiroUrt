@@ -59,34 +59,15 @@
   text-align: center;'>
   </a>
 <a href="https://www.linkedin.com/in/ramiro-urteaga-b32430242/" style="text-decoration: none;">
-  <button style='    
-      cursor: pointer;
-      border-radius: 20px;
-      background-color: black;
-      border: 1px solid black;    
-      padding: 10px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-align: center;'>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
-      <span style="color: white; font-weight: bold; font-size: 18px;">LinkedIn</span>
-  </button>
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-<a href="mailto:urteagaramiro33@gmail.com" style="text-decoration: none;">
-  <button style='
-      cursor: pointer;
-      border-radius: 20px;
-      background-color: black;
-      border: 1px solid black;    
-      padding: 10px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-align: center;'>
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
-      <span style="color: white; font-weight: bold; font-size: 18px;">Gmail</span>
-  </button>
+
+<a href="mailto:urteagaramiro33@gmail.com">
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+</a>
 </p>
 </div>
     
