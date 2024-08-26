@@ -16,9 +16,9 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 📄 &nbsp;Please have a look at my [Résumé](https://portafolio-chi-gilt.vercel.app) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style='margin-top:4rem'/>
 
 <h2>🛠<span style='color:black;text-decoration: underline;text-underline-offset: 1rem;'>Tech Stack</span></h2>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style='margin-top:4rem'/>
 
 <p align="center">
 <p>Front Skill</p>
