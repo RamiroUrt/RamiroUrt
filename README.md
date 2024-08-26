@@ -51,14 +51,8 @@
 
 <h2>🤝🏻<span style='color:black;text-decoration: underline;text-underline-offset: 1rem;'>Connect with Me</span></h2>
 
-<p align="center" style='
-  display: flex;
-  gap:1rem;
-  justify-content: center;
-  align-items: center;
-  text-align: center;'>
-  </a>
-<a href="https://www.linkedin.com/in/ramiro-urteaga-b32430242/" style="text-decoration: none;">
+<p align="center">
+<a href="https://www.linkedin.com/in/ramiro-urteaga-b32430242/"">
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
