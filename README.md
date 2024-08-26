@@ -1,6 +1,6 @@
 <div style="background-color: white; padding: 20px; height: 100px;">
 <div style="background-size: contain; background-position: center; background-repeat: no-repeat; width: 100%; height: 100px;">
-  <img src="https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Night Coding" style="object-fit: cover; width: 100%; height: 100%;"/>
+  <img src="https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Night Coding" width: "100%" height: "100px"/>
 </div>
 
 <h1><b>Hey there! I'm <span style='color:black'>Ramiro Urteaga 👋</span></b></h1>
