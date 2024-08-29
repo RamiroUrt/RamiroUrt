@@ -52,11 +52,9 @@
 <h2>🤝🏻<span style='color:black;text-decoration: underline;text-underline-offset: 1rem;'>Connect with Me</span></h2>
 
 <p align="center">
+<a href="https://www.linkedin.com/in/ramiro-urteaga-b32430242/">
   
-<a href="https://www.linkedin.com/in/ramiro-urteaga-b32430242/"">
-
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
 </a>
 
 <a href="mailto:urteagaramiro33@gmail.com">
