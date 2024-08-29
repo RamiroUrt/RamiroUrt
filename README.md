@@ -27,7 +27,7 @@
   </a>
 <p>Back Skill</p>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=python,java,,cs" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs" />
   </a>
 <p>BBDD Skill</p>
   <a href="">
