@@ -21,7 +21,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style='margin-top:4rem'/>
 
 <p align="center">
-<p>Front Skill</p>
+<p>Skill</p>
   <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,tailwind" />
   </a>
