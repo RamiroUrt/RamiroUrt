@@ -23,7 +23,10 @@
 <p align="center">
 <p>Front Skill</p>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,tailwind,dotnet,python,java,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,tailwind" />
+  </a>
+    <a href="">
+    <img src="https://skillicons.dev/icons?i=dotnet,python,java,cs" />
   </a>
 <p>BBDD Skill</p>
   <a href="">
