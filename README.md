@@ -61,7 +61,6 @@ const ramiro = {
 
 <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220"/>
 
-</td>
 </table>
 
 ## 🚀 About Me
