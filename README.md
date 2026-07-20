@@ -10,7 +10,6 @@ Full Stack Developer • React • Next.js • TypeScript
 I'm **Ramiro Urteaga**, a Full Stack Developer from Argentina passionate about building fast, accessible and SEO-friendly web applications.
 
 <table>
-<tr>
 
 <td width="65%" valign="top">
 
@@ -63,8 +62,6 @@ const ramiro = {
 <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220"/>
 
 </td>
-
-</tr>
 </table>
 
 ## 🚀 About Me
