@@ -10,81 +10,46 @@ Full Stack Developer • React • Next.js • TypeScript
 
 I'm **Ramiro Urteaga**, a Full Stack Developer from Argentina passionate about building fast, accessible and SEO-friendly web applications.
 
+<td width="65%" valign="top">
+
 ```ts
 const ramiro = {
-  pronouns: ["he", "him"],
+  role: "Frontend Developer",
 
-  askMeAbout: [
-    "Full Stack",
+  stack: [
     "React",
     "Next.js",
-    "TypeScript",
+    "TypeScript"
+  ],
+
+  focus: [
     "SEO",
     "Performance",
-    "Web Accessibility"
+    "Accessibility"
   ],
 
-  technologies: {
-    frontend: [
-      "React",
-      "Next.js",
-      "TypeScript",
-      "Tailwind CSS"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express",
-      ".NET",
-      "Python"
-    ],
-
-    databases: [
-      "MySQL",
-      "MongoDB"
-    ],
-
-    tools: [
-      "Git",
-      "GitHub",
-      "Vercel",
-      "Figma"
-    ]
-  },
-
-  currentlyLearning: [
-    "AI",
-    "Data Analytics",
-    "Advanced Next.js"
+  backend: [
+    "Node.js",
+    "Express"
   ],
 
-  portfolio: "https://ramirourteaga.online"
+  database: [
+    "MySQL",
+    "MongoDB"
+  ]
 }
 ```
 
+</td>
 
+<td width="35%" align="center">
 
-<img align="right" width="220" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif">
+<img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220"/>
 
+</td>
 
-## 🚀 About Me
-
-- 💻 Frontend Developer focused on React & Next.js
-- ⚡ Passionate about Web Performance & Technical SEO
-- 🎯 Interested in scalable web applications
-- 📚 Software Programming Graduate
-- 🌱 Currently learning AI and Data Analytics
-- 🇦🇷 Based in Argentina
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mysql,mongodb,python,dotnet,git,github,vscode,vercel"/>
-
-</p>
+</tr>
+</table>
 
 ---
 
