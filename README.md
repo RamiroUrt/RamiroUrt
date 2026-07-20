@@ -65,7 +65,7 @@ const ramiro = {
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer focused on React & Next.js
+- 💻 Full Stack Developer focused on React & Next.js
 - ⚡ Passionate about Web Performance & Technical SEO
 - 🎯 Interested in scalable web applications
 - 📚 Software Programming Graduate
