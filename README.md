@@ -14,10 +14,9 @@ I'm **Ramiro Urteaga**, a Full Stack Developer from Argentina passionate about b
 
 ```ts
 const ramiro = {
-const ramiro = {
   role: "Frontend Developer",
   stack: ["React", "Next.js", "TypeScript"],
-  backend: ["Node.js", "Express"],
+  backend: ["Node.js", "Express","Python" ],
   database: ["MySQL", "MongoDB"],
   focus: ["SEO", "Performance"]
 }
@@ -47,6 +46,13 @@ const ramiro = {
 </p>
 
 ---
+<p align="center">
+
+<a href="https://ramirourteaga.online">Portfolio</a> •
+<a href="https://www.linkedin.com/in/ramiro-urteaga/">LinkedIn</a> •
+<a href="mailto:urteagaramiro33@gmail.com">Email</a>
+
+</p>
 
 ## 🌎 Find me
 
