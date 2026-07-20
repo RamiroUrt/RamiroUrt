@@ -14,29 +14,12 @@ I'm **Ramiro Urteaga**, a Full Stack Developer from Argentina passionate about b
 
 ```ts
 const ramiro = {
+const ramiro = {
   role: "Frontend Developer",
-
-  stack: [
-    "React",
-    "Next.js",
-    "TypeScript"
-  ],
-
-  focus: [
-    "SEO",
-    "Performance",
-    "Accessibility"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express"
-  ],
-
-  database: [
-    "MySQL",
-    "MongoDB"
-  ]
+  stack: ["React", "Next.js", "TypeScript"],
+  backend: ["Node.js", "Express"],
+  database: ["MySQL", "MongoDB"],
+  focus: ["SEO", "Performance"]
 }
 ```
 
