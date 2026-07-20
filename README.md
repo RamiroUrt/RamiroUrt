@@ -1,67 +1,110 @@
-<div style="background-color: white; padding: 20px; height: 100px;">
-<div style="background-size: contain; background-position: center; background-repeat: no-repeat; width: 100%; height: 100px;">
-  <img src="https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Night Coding" width= "100%" height= "300px"/>
-</div>
-
-<h1><b>Hey there! I'm <span style='color:black'>Ramiro Urteaga 👋</span></b></h1>
-<p style='font-size:25px'><b>Web Developer</b></p>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Ramiro -->
-
-<h2>👨🏻‍💻<span style='color:black;text-decoration: underline;text-underline-offset: 1rem;'>About Me</span></h2>
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;Currently I received a degree in Programming and with the knowledge I acquired in various courses I work on projects such as Fron-End Develloper.\
-🌱 &nbsp;I am on my way to learning more about everything related to programming, due to my constant curiosity.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-📄 &nbsp;Please have a look at my [Résumé](https://portafolio-chi-gilt.vercel.app) for more details about me. I'm open to feedback and suggestions!
-
-
-<h2>🛠<span style='color:black;text-decoration: underline;text-underline-offset: 1rem;'>Tech Stack</span></h2>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style='margin-top:4rem'/>
+<h1 align="center">
+Hi, I'm Ramiro Urteaga 👋
+</h1>
 
 <p align="center">
-<p>Skill</p>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,tailwind" />
-  </a>
-    <a href="">
-    <img src="https://skillicons.dev/icons?i=dotnet,python,java,cs" />
-  </a>
-<p>BBDD Skill</p>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  </a>
-<p>IDES Skill</p>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,sublime" />
-  </a>
+Full Stack Developer • React • Next.js • TypeScript
 </p>
 
-<h2>⚙️<span style='color:black;text-decoration: underline;text-underline-offset: 1rem;'>GitHub Analytics</span></h2> 
+---
 
-<div style="background-color: #000; padding: 20px; border-radius: 10px;">
-  <a href="https://github.com/RamiroUrt" style="display: flex; justify-content: space-between;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamiroUrt&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="400px"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiroUrt&theme=dark&layout=compact&langs_count=8" width="300px"/>
-  </a>
+Hi there! Thanks for stopping by.
 
-</div>
+I'm **Ramiro Urteaga**, a Full Stack Developer from Argentina passionate about building fast, accessible and SEO-friendly web applications.
 
-<h2>🤝🏻<span style='color:black;text-decoration: underline;text-underline-offset: 1rem;'>Connect with Me</span></h2>
+```ts
+const ramiro = {
+  pronouns: ["he", "him"],
+
+  askMeAbout: [
+    "Full Stack",
+    "React",
+    "Next.js",
+    "TypeScript",
+    "SEO",
+    "Performance",
+    "Web Accessibility"
+  ],
+
+  technologies: {
+    frontend: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express",
+      ".NET",
+      "Python"
+    ],
+
+    databases: [
+      "MySQL",
+      "MongoDB"
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "Vercel",
+      "Figma"
+    ]
+  },
+
+  currentlyLearning: [
+    "AI",
+    "Data Analytics",
+    "Advanced Next.js"
+  ],
+
+  portfolio: "https://ramirourteaga.online"
+}
+```
+
+<img align="right" width="220" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif">
+
+## 🚀 About Me
+
+- 💻 Frontend Developer focused on React & Next.js
+- ⚡ Passionate about Web Performance & Technical SEO
+- 🎯 Interested in scalable web applications
+- 📚 Software Programming Graduate
+- 🌱 Currently learning AI and Data Analytics
+- 🇦🇷 Based in Argentina
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ramiro-urteaga-b32430242/">
-  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
 
-<a href="mailto:urteagaramiro33@gmail.com">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mysql,mongodb,python,dotnet,git,github,vscode,vercel"/>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-</a>
 </p>
-</div>
-    
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RamiroUrt&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiroUrt&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌎 Find me
+
+<p align="center">
+
+<a href="https://ramirourteaga.online">Portfolio</a> •
+<a href="https://www.linkedin.com/in/ramiro-urteaga/">LinkedIn</a> •
+<a href="mailto:urteagaramiro33@gmail.com">Email</a>
+
+</p>
