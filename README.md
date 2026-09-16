@@ -53,7 +53,7 @@ const ramiro = {
     "Data Analytics",
     "Advanced Next.js"
   ],
-  portfolio: "[https://ramirourteaga.online](https://portafolio-dwd8.vercel.app/)"
+  portfolio: "portafolio-dwd8.vercel.app"
 }
 ```
 </td>
@@ -100,7 +100,7 @@ const ramiro = {
 
 <p align="center">
 
-<a href="[https://ramirourteaga.online](https://portafolio-dwd8.vercel.app/)">Portfolio</a> •
+<a href="portafolio-dwd8.vercel.app">Portfolio</a> •
 <a href="https://www.linkedin.com/in/ramiro-urteaga/">LinkedIn</a> •
 <a href="mailto:urteagaramiro33@gmail.com">Email</a>
 
